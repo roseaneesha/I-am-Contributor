@@ -98,6 +98,16 @@ const Content = () => {
         g_link="https://github.com/aditya687"
         t_link ="https://twitter.com/AdityaP35096998" />
 
+     <Cards
+        sname="Aneesha Rose"
+        skill1="Web Developer"
+        skill2="C++"
+        skill3="Python"
+        skill4="Java"
+        l_link="https://www.linkedin.com/in/aneesha-rose-53546a1b2/"
+        g_link="https://github.com/roseaneesha"
+        t_link ="https://twitter.com" />    
+
     
      <Cards
         sname="Harshitha A Reddy"
